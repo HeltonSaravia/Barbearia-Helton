@@ -3,7 +3,7 @@
 }
 
 .principal{
-background-color: #CCCCCC;
+  background-color: #CCCCCC;
   padding: 30px;
 }
 
@@ -15,12 +15,12 @@ background-color: #CCCCCC;
   text-align: center;
 }
 
-p {
+p{
   text-align: center;
 }
 
 em strong{
-  color:red;
+  color: red;
 }
 
 #missao{
@@ -38,11 +38,11 @@ ul{
   width: 20%;
   margin-right: 15%;
 }
+
 .item{
   font-style: italic;
 }
 
-
 .imagem-beneficios{
-  width:50%;
+  width: 50%;
 }
